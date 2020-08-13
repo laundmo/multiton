@@ -7,7 +7,7 @@ Submodules
 multiton.multiton module
 ------------------------
 
-.. automodule:: multiton.multiton
+.. automodule:: multiton.MultitonMetaFactory
     :members:
     :undoc-members:
     :show-inheritance:
