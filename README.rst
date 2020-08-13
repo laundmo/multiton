@@ -18,8 +18,8 @@ Features
 
 Quickstart
 ----------
+.. code-block:: python
 
-::
     from multiton import MultitonMetaFactory
 
     class TestMultiton(metaclass=MultitonMetaFactory(0, (1, lambda x: x[1]), kw_b=None) ):
