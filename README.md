@@ -1,7 +1,7 @@
 Multiton
 ========
 
-[![image][]][1] [![image][2]][3] [![Documentation Status][]][4]
+[![](https://img.shields.io/pypi/v/multiton.svg)](https://pypi.python.org/pypi/multiton) [![](https://img.shields.io/travis/laundmo/multiton.svg)](https://travis-ci.com/laundmo/multiton) [![Documentation Status](https://readthedocs.org/projects/multiton/badge/?version=latest)](https://multiton.readthedocs.io/en/latest/?badge=latest)
 
 A Multiton metaclass for preventing duplicate instances based on init
 values.
@@ -17,14 +17,5 @@ Features
 Credits
 -------
 
-This package was created with [Cookiecutter][] and the
-[audreyr/cookiecutter-pypackage][] project template.
-
-  [image]: https://img.shields.io/pypi/v/multiton.svg
-  [1]: https://pypi.python.org/pypi/multiton
-  [2]: https://img.shields.io/travis/laundmo/multiton.svg
-  [3]: https://travis-ci.com/laundmo/multiton
-  [Documentation Status]: https://readthedocs.org/projects/multiton/badge/?version=latest
-  [4]: https://multiton.readthedocs.io/en/latest/?badge=latest
-  [Cookiecutter]: https://github.com/audreyr/cookiecutter
-  [audreyr/cookiecutter-pypackage]: https://github.com/audreyr/cookiecutter-pypackage
+This package was created with [Cookiecutter](https://github.com/audreyr/cookiecutter) and the
+[udreyr/cookiecutter-pypackage](https://github.com/audreyr/cookiecutter-pypackage) project template.
